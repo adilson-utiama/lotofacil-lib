@@ -1,0 +1,96 @@
+{
+	"NumeroConcurso": 1418,
+	"Acumulou": false,
+	"EstimativaPremio": 1700000.00,
+	"ValorAcumulado": 0.00,
+	"Data": "2016-09-30",
+	"RealizadoEm": "Sorteio realizado em ALPINÓPOLIS/MG  ",
+	"DescricaoAcumuladoOutro": null,
+	"ValorAcumuladoOutro": null,
+	"DataProximo": "2016-10-03",
+	"ValorAcumuladoEspecial": 4112072.47,
+	"Arrecadacao": 22334208.00,
+	"Sorteios": [
+		{
+			"NumSorteio": 1,
+			"Numeros": [
+				21,
+				2,
+				13,
+				14,
+				9,
+				6,
+				11,
+				23,
+				20,
+				15,
+				4,
+				18,
+				10,
+				22,
+				17
+			],
+			"Premios": [
+				{
+					"Faixa": "15 acertos",
+					"NumeroGanhadores": 4,
+					"Valor": 444300.08
+				},
+				{
+					"Faixa": "14 acertos",
+					"NumeroGanhadores": 590,
+					"Valor": 1324.04
+				},
+				{
+					"Faixa": "13 acertos",
+					"NumeroGanhadores": 16008,
+					"Valor": 20.00
+				},
+				{
+					"Faixa": "12 acertos",
+					"NumeroGanhadores": 185448,
+					"Valor": 8.00
+				},
+				{
+					"Faixa": "11 acertos",
+					"NumeroGanhadores": 993010,
+					"Valor": 4.00
+				}
+			],
+			"Ganhadores": [
+				{
+					"CidadeEstado": "AP",
+					"Quantidade": 1
+				},
+				{
+					"CidadeEstado": "MACAPÁ",
+					"Quantidade": 1
+				},
+				{
+					"CidadeEstado": "PA",
+					"Quantidade": 1
+				},
+				{
+					"CidadeEstado": "BELÉM",
+					"Quantidade": 1
+				},
+				{
+					"CidadeEstado": "SC",
+					"Quantidade": 1
+				},
+				{
+					"CidadeEstado": "SEARA",
+					"Quantidade": 1
+				},
+				{
+					"CidadeEstado": "SP",
+					"Quantidade": 1
+				},
+				{
+					"CidadeEstado": "SÃO PAULO",
+					"Quantidade": 1
+				}
+			]
+		}
+	]
+}
